@@ -1,12 +1,11 @@
-## Hi there 👋
+## 말하면 OK! (Say it, it's OK!)✔️
 
-<!--
+### 파트별 태그
+[TEST]: 테스트 repo
+[CLNT]: 클라이언트 repo
+[SERV]: API 서버 repo
+[NLPS]: NL 처리 서버 repo
+[DBST]: 데이터베이스 처리 서버 repo
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
