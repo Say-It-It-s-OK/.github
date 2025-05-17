@@ -5,6 +5,8 @@
 
 [CLNT]: 클라이언트 repo
 
+[STT]: STT 서버 repo
+
 [SERV]: API 서버 repo
 
 [NLPS]: NL 처리 서버 repo
